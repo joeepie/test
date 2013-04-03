@@ -15,4 +15,10 @@
     // Insert code here to initialize your application
 }
 
+- (IBAction)submit:(id)sender {
+    
+}
+
+- (IBAction)valueTwo:(id)sender {
+}
 @end

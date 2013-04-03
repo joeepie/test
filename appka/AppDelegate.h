@@ -12,4 +12,8 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+- (IBAction)submit:(id)sender;
+- (IBAction)valueTwo:(id)sender;
+@property (weak) IBOutlet NSTextField *textFieldOne;
+
 @end
